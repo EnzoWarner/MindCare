@@ -1,0 +1,6 @@
+<Pricing
+  breakpoint="desktop"
+  className="pricing-18"
+  contentClassName="pricing-instance"
+  sectionTitleClassName="pricing-instance"
+/>;

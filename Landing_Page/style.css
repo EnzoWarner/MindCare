@@ -1,0 +1,61 @@
+.mind-cared {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .mind-cared .div-2 {
+    background-color: #ffffff;
+    height: 2422px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .mind-cared .overlap-group {
+    height: 72px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .mind-cared .navbar-1 {
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .mind-cared .navbar-instance {
+    border-color: unset !important;
+    margin-bottom: -2px !important;
+    margin-right: -2px !important;
+    margin-top: -2px !important;
+  }
+  
+  .mind-cared .design-component-instance-node {
+    margin-left: -1px !important;
+    margin-top: -1px !important;
+  }
+  
+  .mind-cared .pixelcut-export {
+    height: 40px;
+    left: 64px;
+    position: absolute;
+    top: 16px;
+    width: 135px;
+  }
+  
+  .mind-cared .header-1 {
+    left: 0 !important;
+    position: absolute !important;
+    top: 73px !important;
+  }
+  
+  .mind-cared .header-instance {
+    border-color: unset !important;
+    margin-bottom: -2px !important;
+    margin-left: -2px !important;
+    margin-top: -2px !important;
+  }

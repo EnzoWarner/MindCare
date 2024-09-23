@@ -1,0 +1,293 @@
+.pricing {
+    align-items: center;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+    overflow: hidden;
+    padding: 112px 64px;
+    position: relative;
+    width: 1px;
+  }
+  
+  .pricing .section-title {
+    align-items: center;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 16px;
+    margin-bottom: -112px;
+    margin-right: -1167px;
+    position: relative;
+    width: 768px;
+  }
+  
+  .pricing .tagline-wrapper {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    position: relative;
+  }
+  
+  .pricing .content {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 24px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .pricing .heading {
+    align-self: stretch;
+    color: #000000;
+    font-family: var(--heading-desktop-h2-font-family);
+    font-size: var(--heading-desktop-h2-font-size);
+    font-style: var(--heading-desktop-h2-font-style);
+    font-weight: var(--heading-desktop-h2-font-weight);
+    letter-spacing: var(--heading-desktop-h2-letter-spacing);
+    line-height: var(--heading-desktop-h2-line-height);
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+  }
+  
+  .pricing .text {
+    align-self: stretch;
+    color: #000000;
+    font-family: var(--text-medium-normal-font-family);
+    font-size: var(--text-medium-normal-font-size);
+    font-style: var(--text-medium-normal-font-style);
+    font-weight: var(--text-medium-normal-font-weight);
+    letter-spacing: var(--text-medium-normal-letter-spacing);
+    line-height: var(--text-medium-normal-line-height);
+    position: relative;
+    text-align: center;
+  }
+  
+  .pricing .div {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 32px;
+    margin-bottom: -112px;
+    margin-right: -1439px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .pricing .column {
+    align-items: center;
+    align-self: stretch;
+    border: 1px solid;
+    border-color: #7a55a7;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    flex-grow: 1;
+    gap: 32px;
+    padding: 32px;
+    position: relative;
+  }
+  
+  .pricing .content-2 {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    flex-grow: 1;
+    gap: 32px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .pricing .price {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 8px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .pricing .text-wrapper {
+    align-self: stretch;
+    color: #000000;
+    font-family: var(--heading-desktop-h6-font-family);
+    font-size: var(--heading-desktop-h6-font-size);
+    font-style: var(--heading-desktop-h6-font-style);
+    font-weight: var(--heading-desktop-h6-font-weight);
+    letter-spacing: var(--heading-desktop-h6-letter-spacing);
+    line-height: var(--heading-desktop-h6-line-height);
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+  }
+  
+  .pricing .p {
+    align-self: stretch;
+    color: transparent;
+    font-family: "Roboto-Regular", Helvetica;
+    font-size: 56px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 56px;
+    position: relative;
+    text-align: center;
+  }
+  
+  .pricing .span {
+    color: #000000;
+    line-height: 0.1px;
+  }
+  
+  .pricing .text-wrapper-2 {
+    color: #000000;
+    font-size: 32px;
+    line-height: 41.6px;
+  }
+  
+  .pricing .text-2 {
+    align-self: stretch;
+    color: #000000;
+    font-family: var(--text-regular-normal-font-family);
+    font-size: var(--text-regular-normal-font-size);
+    font-style: var(--text-regular-normal-font-style);
+    font-weight: var(--text-regular-normal-font-weight);
+    letter-spacing: var(--text-regular-normal-letter-spacing);
+    line-height: var(--text-regular-normal-line-height);
+    position: relative;
+    text-align: center;
+  }
+  
+  .pricing .list {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 16px;
+    padding: 8px 0px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .pricing .list-item {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 16px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .pricing .check {
+    height: 24px;
+    position: relative;
+    width: 24px;
+  }
+  
+  .pricing .text-3 {
+    color: #000000;
+    font-family: var(--text-regular-normal-font-family);
+    font-size: var(--text-regular-normal-font-size);
+    font-style: var(--text-regular-normal-font-style);
+    font-weight: var(--text-regular-normal-font-weight);
+    letter-spacing: var(--text-regular-normal-letter-spacing);
+    line-height: var(--text-regular-normal-line-height);
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .pricing .actions {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 16px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .pricing .button {
+    all: unset;
+    align-items: center;
+    align-self: stretch;
+    background-color: #7a55a7;
+    border: 1px solid;
+    border-color: #000000;
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 8px;
+    justify-content: center;
+    margin-bottom: -1px;
+    margin-left: -1px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 12px 24px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .pricing .button-2 {
+    all: unset;
+    box-sizing: border-box;
+    color: #ffffff;
+    font-family: var(--text-regular-normal-font-family);
+    font-size: var(--text-regular-normal-font-size);
+    font-style: var(--text-regular-normal-font-style);
+    font-weight: var(--text-regular-normal-font-weight);
+    letter-spacing: var(--text-regular-normal-letter-spacing);
+    line-height: var(--text-regular-normal-line-height);
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .pricing .button-wrapper {
+    all: unset;
+    align-items: flex-start;
+    align-self: stretch;
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 16px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .pricing .column-2 {
+    align-items: center;
+    border: 1px solid;
+    border-color: #7a55a7;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    flex-grow: 1;
+    gap: 32px;
+    padding: 32px;
+    position: relative;
+  }
+  
+  .pricing .content-3 {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 32px;
+    position: relative;
+    width: 100%;
+  }
